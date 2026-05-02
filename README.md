@@ -1,4 +1,4 @@
-# Mahesh Portfolio
+# My Portfolio
 
 > Modern personal portfolio built with **React 18 + Vite + Tailwind CSS**
 
@@ -11,7 +11,6 @@ setup.bat
 # 2. Start the dev server
 npm run dev
 
-# 3. Open http://localhost:5173
 ```
 
 ## 📁 Project Structure
@@ -57,10 +56,3 @@ Portfolio/
 - **Responsive** — Mobile-first design for all screen sizes
 - **Zero Icon Library** — Inline SVGs for zero bundle overhead
 - **SEO Optimized** — Full meta tags, OG tags, semantic HTML
-
-## 🛠 Build for Production
-
-```bash
-npm run build
-npm run preview
-```
