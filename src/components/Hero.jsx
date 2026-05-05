@@ -55,7 +55,8 @@ export default function Hero() {
                   View Projects
                 </a>
                 <a
-                  href={personalInfo.resumeUrl}
+                  href="/assets/Mahesh_GEN_AI.pdf"
+                  download="Mahesh_GEN_AI.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="btn-secondary"
