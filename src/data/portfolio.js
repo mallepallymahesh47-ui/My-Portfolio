@@ -18,7 +18,7 @@ Currently exploring opportunities where I can contribute, learn, and grow in AI-
   linkedin: 'https://www.linkedin.com/in/mallepalli-mahesh-7ba192230',
   profileImg: '/assets/profile.jpeg',
   gfgLogo: '/assets/gfg-logo.png',
-  resumeUrl: '/assets/Mahesh_GEN_AI.pdf',
+  resumeUrl: '/assets/Mahesh_GEN AI.pdf',
 }
 
 export const skills = {
